@@ -1,0 +1,18 @@
+#content {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+p {
+	position: fixed;
+	bottom: 2px;
+	right: 4px;
+	margin-bottom: 1px;
+	font-family: "Helvetica";
+}
